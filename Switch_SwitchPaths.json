@@ -1,0 +1,1586 @@
+[
+	{
+		"Item": "Instrument_Set_1",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\Block",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\Block\\Fibre_Switch",
+		"Value": "1,13"
+	},
+	{
+		"Item": "Instrument_Set_1\\Block\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer",
+		"Value": "OpticalSpectrumAnalyzer1"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Reference",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Reference\\Fibre_Switch",
+		"Value": "1,1"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Reference\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre0",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre0\\Input",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre0\\Input\\Dicon_DUT",
+		"Value": "0,1"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre1",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre1\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre1\\Output\\Fibre_Switch",
+		"Value": "1,2"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre1\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre2",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre2\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre2\\Output\\Fibre_Switch",
+		"Value": "1,3"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre2\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre3",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre3\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre3\\Output\\Fibre_Switch",
+		"Value": "1,4"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre3\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre4",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre4\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre4\\Output\\Fibre_Switch",
+		"Value": "1,5"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre4\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre5",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre5\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre5\\Output\\Fibre_Switch",
+		"Value": "1,6"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre5\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre6",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre6\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre6\\Output\\Fibre_Switch",
+		"Value": "1,7"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre6\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre7",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre7\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre7\\Output\\Fibre_Switch",
+		"Value": "1,8"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre7\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre8",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre8\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre8\\Output\\Fibre_Switch",
+		"Value": "1,9"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre8\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre9",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre9\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre9\\Output\\Fibre_Switch",
+		"Value": "1,10"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre9\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre10",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre10\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre10\\Output\\Fibre_Switch",
+		"Value": "1,11"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre10\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre11",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre11\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre11\\Output\\Fibre_Switch",
+		"Value": "1,12"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon1\\Fibre11\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre0",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre0\\Input",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre0\\Input\\Dicon_DUT",
+		"Value": "0,2"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre1",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre1\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre1\\Output\\Fibre_Switch",
+		"Value": "1,14"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre1\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre2",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre2\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre2\\Output\\Fibre_Switch",
+		"Value": "1,15"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre2\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre3",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre3\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre3\\Output\\Fibre_Switch",
+		"Value": "1,16"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre3\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre4",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre4\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre4\\Output\\Fibre_Switch",
+		"Value": "1,17"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre4\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre5",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre5\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre5\\Output\\Fibre_Switch",
+		"Value": "1,18"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre5\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre6",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre6\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre6\\Output\\Fibre_Switch",
+		"Value": "1,19"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre6\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre7",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre7\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre7\\Output\\Fibre_Switch",
+		"Value": "1,20"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre7\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre8",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre8\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre8\\Output\\Fibre_Switch",
+		"Value": "1,21"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre8\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre9",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre9\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre9\\Output\\Fibre_Switch",
+		"Value": "1,22"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre9\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre10",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre10\\Output\\Fibre_Switch",
+		"Value": "1,23"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre10\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre11",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre11\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre11\\Output\\Fibre_Switch",
+		"Value": "1,24"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon2\\Fibre11\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre0",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre0\\Input",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre0\\Input\\Dicon_DUT",
+		"Value": "0,3"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre1",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre1\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre1\\Output\\Fibre_Switch",
+		"Value": "1,26"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre1\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre2",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre2\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre2\\Output\\Fibre_Switch",
+		"Value": "1,27"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre2\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre3",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre3\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre3\\Output\\Fibre_Switch",
+		"Value": "1,28"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre3\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre4",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre4\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre4\\Output\\Fibre_Switch",
+		"Value": "1,29"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre4\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre5",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre5\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre5\\Output\\Fibre_Switch",
+		"Value": "1,30"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre5\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre6",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre6\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre6\\Output\\Fibre_Switch",
+		"Value": "1,31"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre6\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre7",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre7\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre7\\Output\\Fibre_Switch",
+		"Value": "1,32"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre7\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre8",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre8\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre8\\Output\\Fibre_Switch",
+		"Value": "1,33"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre8\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre9",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre9\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre9\\Output\\Fibre_Switch",
+		"Value": "1,34"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre9\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre10",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre10\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre10\\Output\\Fibre_Switch",
+		"Value": "1,35"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre10\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre11",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre11\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre11\\Output\\Fibre_Switch",
+		"Value": "1,36"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon3\\Fibre11\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre0",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre0\\Input",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre0\\Input\\Dicon_DUT",
+		"Value": "0,4"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre1",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre1\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre1\\Output\\Fibre_Switch",
+		"Value": "1,38"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre1\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre2",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre2\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre2\\Output\\Fibre_Switch",
+		"Value": "1,39"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre2\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre3",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre3\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre3\\Output\\Fibre_Switch",
+		"Value": "1,40"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre3\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre4",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre4\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre4\\Output\\Fibre_Switch",
+		"Value": "1,41"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre4\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre5",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre5\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre5\\Output\\Fibre_Switch",
+		"Value": "1,42"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre5\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre6",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre6\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre6\\Output\\Fibre_Switch",
+		"Value": "1,43"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre6\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre7",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre7\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre7\\Output\\Fibre_Switch",
+		"Value": "1,44"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre7\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre8",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre8\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre8\\Output\\Fibre_Switch",
+		"Value": "1,45"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre8\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre9",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre9\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre9\\Output\\Fibre_Switch",
+		"Value": "1,46"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre9\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre10",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre10\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre10\\Output\\Fibre_Switch",
+		"Value": "1,47"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre10\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre11",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre11\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre11\\Output\\Fibre_Switch",
+		"Value": "1,48"
+	},
+	{
+		"Item": "Instrument_Set_1\\OpticalSpectrumAnalyzer\\Ribbon4\\Fibre11\\Output\\Dicon_Source",
+		"Value": "0,0"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser",
+		"Value": "Laser1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Reference",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Reference\\Fibre_Switch",
+		"Value": "2,1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Reference\\Dicon_Source",
+		"Value": "0"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\WavelengthRef",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\WavelengthRef\\Fibre_Switch",
+		"Value": "2,1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\WavelengthRef\\Dicon_Source",
+		"Value": "0"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre0",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre0\\Input",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre0\\Input\\Dicon_DUT",
+		"Value": "0,1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre1",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre1\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre1\\Output\\Fibre_Switch",
+		"Value": "2,2"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre1\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre2",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre2\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre2\\Output\\Fibre_Switch",
+		"Value": "2,3"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre2\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre3",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre3\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre3\\Output\\Fibre_Switch",
+		"Value": "2,4"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre3\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre4",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre4\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre4\\Output\\Fibre_Switch",
+		"Value": "2,5"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre4\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre5",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre5\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre5\\Output\\Fibre_Switch",
+		"Value": "2,6"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre5\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre6",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre6\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre6\\Output\\Fibre_Switch",
+		"Value": "2,7"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre6\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre7",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre7\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre7\\Output\\Fibre_Switch",
+		"Value": "2,8"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre7\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre8",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre8\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre8\\Output\\Fibre_Switch",
+		"Value": "2,9"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre8\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre9",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre9\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre9\\Output\\Fibre_Switch",
+		"Value": "2,10"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre9\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre10\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre10\\Output\\Fibre_Switch",
+		"Value": "2,11"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre10\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre11",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre11\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre11\\Output\\Fibre_Switch",
+		"Value": "2,12"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon1\\Fibre11\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre0",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre0\\Input",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre0\\Input\\Dicon_DUT",
+		"Value": "0,2"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre1",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre1\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre1\\Output\\Fibre_Switch",
+		"Value": "2,14"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre1\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre2",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre2\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre2\\Output\\Fibre_Switch",
+		"Value": "2,15"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre2\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre3",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre3\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre3\\Output\\Fibre_Switch",
+		"Value": "2,16"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre3\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre4",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre4\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre4\\Output\\Fibre_Switch",
+		"Value": "2,17"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre4\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre5",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre5\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre5\\Output\\Fibre_Switch",
+		"Value": "2,18"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre5\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre6",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre6\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre6\\Output\\Fibre_Switch",
+		"Value": "2,19"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre6\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre7",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre7\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre7\\Output\\Fibre_Switch",
+		"Value": "2,20"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre7\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre8",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre8\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre8\\Output\\Fibre_Switch",
+		"Value": "2,21"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre8\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre9",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre9\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre9\\Output\\Fibre_Switch",
+		"Value": "2,22"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre9\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre10",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre10\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre10\\Output\\Fibre_Switch",
+		"Value": "2,23"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre10\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre11",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre11\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre11\\Output\\Fibre_Switch",
+		"Value": "2,24"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon2\\Fibre11\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre0",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre0\\Input",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre0\\Input\\Dicon_DUT",
+		"Value": "0,3"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre1",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre1\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre1\\Output\\Fibre_Switch",
+		"Value": "2,26"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre1\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre2",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre2\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre2\\Output\\Fibre_Switch",
+		"Value": "2,27"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre2\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre3",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre3\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre3\\Output\\Fibre_Switch",
+		"Value": "2,28"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre3\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre4",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre4\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre4\\Output\\Fibre_Switch",
+		"Value": "2,29"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre4\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre5",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre5\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre5\\Output\\Fibre_Switch",
+		"Value": "2,30"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre5\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre6",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre6\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre6\\Output\\Fibre_Switch",
+		"Value": "2,31"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre6\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre7",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre7\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre7\\Output\\Fibre_Switch",
+		"Value": "2,32"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre7\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre8",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre8\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre8\\Output\\Fibre_Switch",
+		"Value": "2,33"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre8\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre9",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre9\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre9\\Output\\Fibre_Switch",
+		"Value": "2,34"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre9\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre10",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre10\\Output\\Fibre_Switch",
+		"Value": "2,35"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre10\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre10\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre11",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre11\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre11\\Output\\Fibre_Switch",
+		"Value": "2,36"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon3\\Fibre11\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre0",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre0\\Input",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre0\\Input\\Dicon_DUT",
+		"Value": "0,4"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre1",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre1\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre1\\Output\\Fibre_Switch",
+		"Value": "2,38"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre1\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre2",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre2\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre2\\Output\\Fibre_Switch",
+		"Value": "2,39"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre2\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre3",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre3\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre3\\Output\\Fibre_Switch",
+		"Value": "2,40"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre3\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre4",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre4\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre4\\Output\\Fibre_Switch",
+		"Value": "2,41"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre4\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre5",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre5\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre5\\Output\\Fibre_Switch",
+		"Value": "2,42"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre5\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre6",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre6\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre6\\Output\\Fibre_Switch",
+		"Value": "2,43"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre6\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre7",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre7\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre7\\Output\\Fibre_Switch",
+		"Value": "2,44"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre7\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre8",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre8\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre8\\Output\\Fibre_Switch",
+		"Value": "2,45"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre8\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre9",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre9\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre9\\Output\\Fibre_Switch",
+		"Value": "2,46"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre9\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre10",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre10\\Output",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre10\\Output\\Fibre_Switch",
+		"Value": "2,47"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre10\\Output\\Dicon_Source",
+		"Value": "1"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre11",
+		"Value": ""
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre11\\Output\\Fibre_Switch",
+		"Value": "2,48"
+	},
+	{
+		"Item": "Instrument_Set_1\\TunableLaser\\Ribbon4\\Fibre11\\Output\\Dicon_Source",
+		"Value": "1"
+	}
+]
